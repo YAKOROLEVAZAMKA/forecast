@@ -7,7 +7,6 @@
 2) STLDecompose-bfill (тоже самое, только 0 заменяются функцией bfill())
 3) ARIMA-MS-MEAN (все шаги описал в комментариях + bfill())
 4) ARIMA-MS-SUM (тоже самое, считаются не средние значения по месяцам, а сумма! + bfill())
-
 5) Два других файла - это ARIMA без bfill(), числа почти не отличаются поэтому ими в принципе можно пренебречь.
 
 
@@ -16,9 +15,11 @@
 
 
 STLDecompose - https://github.com/jrmontag/STLDecompose/blob/master/STL-usage-example.ipynb
+
 ARIMA - https://www.8host.com/blog/prognozirovanie-vremennyx-ryadov-s-pomoshhyu-arima-v-python-3/
 
 
 Планирую попробовать еще вот это:
 https://www.johnwittenauer.net/a-simple-time-series-analysis-of-the-sp-500-index/
+
 http://www.seanabu.com/2016/03/22/time-series-seasonal-ARIMA-model-in-python/
