@@ -12,3 +12,7 @@
 
 
 Итого верными мне кажутся STLDecompose-bfill, ARIMA-MS-SUM, ARIMA-MS-nobfill-SUM, прогноз в разоне 14кк.
+
+
+STLDecompose - https://github.com/jrmontag/STLDecompose/blob/master/STL-usage-example.ipynb
+ARIMA - https://www.8host.com/blog/prognozirovanie-vremennyx-ryadov-s-pomoshhyu-arima-v-python-3/
